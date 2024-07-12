@@ -1,0 +1,7 @@
+Realiser le programme java avec les fonctionnalité suivantes :
+1-Ajouter notes dans tableau
+2-Lister notes d'un tableau
+3-Rechercher la note la plus grande et la note la plus petite du tableau
+4-Trier le tableau par ordre croissant de ses notes
+5-Supprimer une note à une position k du tableau
+6-Transferer toute les valeurs supérieures à la moyenne dans un tableau puis afficher ce tableau resultat
